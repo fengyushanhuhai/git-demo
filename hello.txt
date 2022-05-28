@@ -12,6 +12,6 @@ hello Git！hello DSQ!
 hello Git！hello DSQ!
 hello Git！hello DSQ!
 hello Git！hello DSQ!
-hello Git！hello DSQ!master test
 hello Git！hello DSQ!
-hello Git！hello DSQ2222 hot-fix test
+hello Git！hello DSQ! master test
+hello Git！hello DSQ2222
